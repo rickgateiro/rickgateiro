@@ -58,4 +58,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/rickgateiro/rickgateiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rickgateiro/rickgateiro/snake.svg" alt="Snake animation" />
